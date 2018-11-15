@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Program.cs](./CS/DecimalAsEncryptedString/Program.cs) (VB: [Program.vb](./VB/DecimalAsEncryptedString/Program.vb))**
+<!-- default file list end -->
 # OBSOLETE - How to persist a value as a different type via a ValueConverter
 
 
